@@ -50,7 +50,7 @@ LINE API, GAS, Gemini API,  Google Spreadsheetを使用した画像読み取り�
 
 ### 4. Google Apps Script (GAS) の設定
 1. [Google Apps Script](https://script.google.com/) にアクセスし、「新しいプロジェクト」を作成する。
-2. 本リポジトリの `コード.gs` の中身をすべて貼り付ける。
+2. 本リポジトリの `code.gs` の中身をすべて貼り付ける。
 3. コードの最上部にある環境変数を、先ほどメモしたものに書き換える。
    ```javascript
    const LINE_ACCESS_TOKEN = '任意のLINEアクセストークン';
